@@ -1,0 +1,36 @@
+1. Less than
+7 is Less than 10
+
+2. Less than Greater than
+7 is Less than 10
+15 is Greater than 10
+
+3. if-else-if
+15 is Greater than 10 but Less than 10
+50 is Greater than or equal to 20
+
+4. Out of Range
+15 In Range
+5 is Out of Range
+
+5. Grades
+Enter the score in integer:
+85
+Grade for score 85 is B
+
+6. Switch
+Enter a number between 1 and 7:
+4
+Thursday
+
+7. Income Tax
+Choose your filing status:
+1.Single
+2.Married Filing Jointly
+2.Married Filing Separately
+4.Head of HouseHold
+1
+Enter your income $ :
+180550
+Tax rate amount for the salary 180550.0 is 0.33
+Total income tax to be paid:	59581.5
