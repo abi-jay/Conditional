@@ -135,10 +135,10 @@ public class Conditional {
         }
         //7.income tax
         System.out.println("\n7. Income Tax");
-        System.out.println("Choose your filing status:\n1.Single\n2.Married Filing Jointly\n2.Married Filing Separately\n4.Head of HouseHold");
+        System.out.println("Choose your filing status:\n1.Single\n2.Married Filing Jointly\n3.Married Filing Separately\n4.Head of HouseHold");
         int num = in.nextInt();
-        while(num<1 ||num>3){
-            System.out.println("Enter 1 2 3 or 4\nChoose your filing status:\n1.Single\n2.Married Filing Jointly\n3.Head of HouseHold");
+        while(num<1 ||num>4){
+            System.out.println("Enter 1 2 3 or 4\nChoose your filing status:\n1.Single\n2.Married Filing Jointly\n3.Married Filing Separately\n4.Head of HouseHold");
             num = in.nextInt();
         }
         System.out.println("Enter your income $ :");
